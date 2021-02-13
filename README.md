@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ayranlouro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Sou analista de sistemas DevOPS, atuando na ferramenta de monitoramento Nagios, buscando e implementando melhorias para colaboradores.
+
+- 👋 Graduando em Ciências da Computação.
+- 👀 Interessado em Desenvolvimento Web.
+- 🌱 Atualmente estudando tecnologias novas de mercado.
+- 📫 Meu contato: https://www.linkedin.com/in/ayranlouro/
 
 <!---
 ayranlouro/ayranlouro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
