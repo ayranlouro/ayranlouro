@@ -3,7 +3,7 @@
 Sou analista de sistemas DevOPS, atuando na ferramenta de monitoramento Nagios, buscando e implementando melhorias para colaboradores.
 
 - 👋 Graduando em Ciências da Computação.
-- 👀 Interessado em Desenvolvimento Web.
+- 👀 Interessado em Desenvolvimento Web/Desktop.
 - 🌱 Atualmente estudando tecnologias novas de mercado.
 - 📫 Meu contato: https://www.linkedin.com/in/ayranlouro/
 
