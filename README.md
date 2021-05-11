@@ -1,6 +1,6 @@
 ### Fala Dev, seja bem vindo ao meu Git Hub 👋
 
-Sou analista de sistemas DevOPS, atuando na ferramenta de monitoramento Nagios, buscando e implementando melhorias para colaboradores.
+Sou analista de sistemas DevOPS, atuando em ferramenta de monitoramento, automação de sistemas e usando da tecnologia como forma de solução aos problemas.
 
 - 👋 Graduando em Ciências da Computação.
 - 👀 Interessado em Desenvolvimento Web/Desktop.
