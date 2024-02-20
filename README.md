@@ -2,7 +2,7 @@
 
 Sou analista de sistemas DevOPS, atuando em ferramenta de monitoramento, automação de sistemas e usando da tecnologia como forma de solução aos problemas.
 
-- 👋 Graduando em Ciências da Computação.
+- 👋 Bacharel em Ciências da Computação.
 - 👀 Interessado em Desenvolvimento Web/Desktop.
 - 🌱 Atualmente estudando tecnologias novas de mercado.
 - 📫 Meu contato: https://www.linkedin.com/in/ayranlouro/
